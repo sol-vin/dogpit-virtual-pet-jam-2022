@@ -1,0 +1,13 @@
+name: dogpit-virtual-pet-jam-2022
+version: 0.1.0
+
+authors:
+  - Ian Rash <redcodefinal@gmail.com>
+
+targets:
+  dogpit-virtual-pet-jam-2022:
+    main: src/dogpit-virtual-pet-jam-2022.cr
+
+crystal: 1.3.0-dev
+
+license: MIT
